@@ -1,0 +1,38 @@
+.container {
+  width: 80%;
+  margin: 50px auto;
+  border: 2px dashed black;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.row {
+  display: flex;
+}
+
+.col-1 {
+  width: 50%;
+  text-align: center;
+}
+
+.col-2 {
+  width: 50%;
+  margin: auto;
+}
+
+.col-2 h1 {
+  font-size: 80px;
+}
+
+.col-2 p {
+  font-size: 20px;
+}
+
+.btn-style {
+  background-color:black;
+  color:aliceblue;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
